@@ -1,0 +1,11 @@
+{
+  "name": "JavaScript-I",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thinkingmonkey00/JavaScript-I.git",
+  "author": "melissa-murphy <melissamurphy.ca@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
+}
